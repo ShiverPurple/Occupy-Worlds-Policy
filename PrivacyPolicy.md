@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Wanderson Gasco built the Occupy Worlds app as a Freemium app. This SERVICE is provided by Wanderson Gasco at no cost and is intended for use as is.
+Ultraviolet Studio built the Occupy Worlds app as a Freemium app. This SERVICE is provided by Ultraviolet Studio at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
@@ -30,7 +30,7 @@ Cookies are files with a small amount of data that are commonly used as anonymou
 
 This Service does not use these “cookies” explicitly. However, the app may use third-party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
 
-**Service Providers**
+## Service Providers
 
 I may employ third-party companies and individuals due to the following reasons:
 
