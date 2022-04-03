@@ -4,7 +4,7 @@ A Ultraviolet Studio projetou Occupy Worlds como um app Freemium. Este SOFTWARE 
 
 Esta página é usada para informar visitantes sobre as políticas de coleta, uso e divulgação de Informação Pessoal daqueles que usem este software.
 
-Caso escolha usar meu software, concordará com a coleta e uso de informações descritas nesta política. A Informação Pessoal coletada é usada para prover e aprimorar a utilização da Aplicação. Eu não utilizarei ou compartilharei as informações coletadas de quaisquer outra forma que não citadas nesta Política de Privacidade.
+Caso escolha usar meu software, concordará com a coleta e uso de informações descritas nesta política. A Informação Pessoal coletada é usada para prover e aprimorar a utilização da Aplicação. Eu não utilizarei ou compartilharei as informações coletadas de quaisquer outra forma que não citada nesta Política de Privacidade.
 
 ## Coleta de Informação e Uso
 
