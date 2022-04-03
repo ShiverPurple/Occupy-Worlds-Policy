@@ -57,4 +57,4 @@ Esta Política torna-se efetiva à partir de 02-04-2022.
 
 ## Entre em Contato
 
-Caso tenha sugestões ou questões sobre minha Política de Privacidade, entre em contato comigo pelo email: ultravioletfeedback@gmai.com.
+Caso tenha sugestões ou questões sobre minha Política de Privacidade, entre em contato comigo pelo email: ultravioletfeedback@gmail.com
