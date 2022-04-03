@@ -4,7 +4,7 @@ Ultraviolet Studio built the Occupy Worlds app as a Freemium app. This SOFTWARE 
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information for anyone that uses this Application.
 
-If you choose to use my Service, then you agree to the collection and use of information described in this policy. The Personal Information collected is used for providing and improving the Application. I will not use or share your information with anyone except as described in this Privacy Policy.
+If you choose to use my Software, then you agree to the collection and use of information described in this policy. The Personal Information collected is used for providing and improving the Application. I will not use or share your information with anyone except as described in this Privacy Policy.
 
 ## Information Collection and Use
 
@@ -33,10 +33,10 @@ This Application does not use these “cookies” explicitly. However, the app m
 
 I may employ third-party companies and individuals due to the following reasons:
 
-*   To facilitate our Service;
-*   To provide the Service on our behalf;
-*   To perform Service-related services; or
-*   To assist us in analyzing how our Service is used.
+*   To facilitate the operation of this Application;
+*   To provide services on my behalf;
+*   To perform support-related services; or
+*   To assist us in analyzing how our Application is used.
 
 I want to inform users of this Application that these third parties have access to their Personal Information. The reason is to perform the tasks assigned to them on my behalf. However, they are obligated not to disclose or use the information for any other purpose on my behalf.
 
