@@ -1,6 +1,6 @@
 # Terms & Conditions
 
-By downloading or using the app, these terms will automatically apply to you – you should make sure therefore that you read them carefully before using the app. Although it’s code is publicly available, the app itself, and all the trademarks, copyright, database rights, and other intellectual property rights related to it, still belong to Ultraviolet Studio.
+By downloading or using the app, these terms will automatically apply to you – therefore you should make sure that you read them carefully before using the app. Although it’s code is publicly available, the app itself, and all the trademarks, copyright, database rights, and other intellectual property rights related to it, still belong to Ultraviolet Studio.
 
 Third-party services used on the Occupy Worlds app may require personally identifiable data but it will not be required, requested or stored directly by the developer of this app.
 
