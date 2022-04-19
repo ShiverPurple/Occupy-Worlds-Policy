@@ -1,4 +1,10 @@
-# Temos e Condições
+<p align=”center”>
+<a href=https://github.com/WandersonKnight/Occupy-Worlds/blob/main/TermsAndConditions.md/>
+<img src=https://img.shields.io/badge/lang-pt--br-success>
+</a>
+</p>
+
+# Termos e Condições
 
 Ao baixar ou utilizar nosso app, esses termos automaticamente se aplicarão à você - torna-se então necessário que estes termos sejam lidos cuidadosamente antes de utilizar a Aplicação. Embora o código deste Software esteja publicamente disponível, a Aplicação e todas propriedades intelectuais relacionadas ainda pertencem à Ultraviolet Studio.
 
