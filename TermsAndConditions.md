@@ -1,3 +1,9 @@
+<p align=”center”>
+<a href=https://github.com/WandersonKnight/Occupy-Worlds/blob/main/TermosECondicoes.md/>
+<img src=https://img.shields.io/badge/lang-pt--br-success>
+</a>
+</p>
+
 # Terms & Conditions
 
 By downloading or using the app, these terms will automatically apply to you – therefore you should make sure that you read them carefully before using the app. Although it’s code is publicly available, the app itself, and all the trademarks, copyright, database rights, and other intellectual property rights related to it, still belong to Ultraviolet Studio.
