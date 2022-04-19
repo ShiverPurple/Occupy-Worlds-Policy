@@ -4,7 +4,6 @@
 </a>
 </p>
 
-
 # Política de Privacidade
 
 A Ultraviolet Studio projetou Occupy Worlds como um app Freemium. Este SOFTWARE é fornecido pela Ultraviolet Studio sem nenhum custo e deve permanecer assim indefinidamente.
