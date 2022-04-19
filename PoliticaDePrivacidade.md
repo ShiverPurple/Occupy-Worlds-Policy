@@ -1,3 +1,10 @@
+<p align=”center”>
+<a href=https://github.com/WandersonKnight/Occupy-Worlds/blob/main/PrivacyPolicy.md/>
+<img src=https://img.shields.io/badge/lang-eng-red>
+</a>
+</p>
+
+
 # Política de Privacidade
 
 A Ultraviolet Studio projetou Occupy Worlds como um app Freemium. Este SOFTWARE é fornecido pela Ultraviolet Studio sem nenhum custo e deve permanecer assim indefinidamente.
