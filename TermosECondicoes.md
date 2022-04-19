@@ -1,6 +1,6 @@
 <p align=”center”>
 <a href=https://github.com/WandersonKnight/Occupy-Worlds/blob/main/TermsAndConditions.md/>
-<img src=https://img.shields.io/badge/lang-pt--br-success>
+<img src=https://img.shields.io/badge/lang-eng-red>
 </a>
 </p>
 
