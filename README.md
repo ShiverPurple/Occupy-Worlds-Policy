@@ -49,12 +49,21 @@ Melhorias focadas em pontos-por-segundo e aumento de pontuação por cada aster�
 
 ### Melhorias Variadas
 
-Melhorias variadas com destaque para a melhoria de ponto-por-click.
+Mecânicas variadas com destaque para a melhoria de ponto-por-click.
 
 @imagem
 
-As mecânicas presentes neste menu são:
-*
-*
-
 ### Configurações
+
+Seção que reune todas as possibilidades de customizações de teor técnico do jogo.
+
+@imagem
+
+## Perfil
+
+Reune estatísticas sobre o gameplay do jogador e apresenta a customização cosmética do jogo.
+
+@imagem
+
+## Loja
+
