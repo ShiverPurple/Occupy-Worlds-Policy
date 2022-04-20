@@ -35,5 +35,18 @@ Ao entrar no jogo os seguintes procedimentos ocorrem imediatamente e automaticam
 
 Tela principal do jogo, onde todo o gameplay ocorre.
 
-O gameplay tem como base jogos incrementais porém, diferente de sua maioria, possui um elemento de constante interação, diferente de parte dos jogos do gênero.
+O gameplay tem como base jogos incrementais porém possui elementos de constante interação, diferente de parte dos jogos do gênero.
 
+@imagem
+
+## Menus
+
+Cada um dos menus principais utiliza diferentes aspectos de uma colonização espacial para nomear suas mecânicas, inicialmente a idéia era adicionar diferentes representações visuais do progresso feito no jogo, o que posteriormente foi descartado para dar lugar à simplicidade visual.
+
+### Construções
+
+
+
+### Upgrades Variados
+
+### Configurações
