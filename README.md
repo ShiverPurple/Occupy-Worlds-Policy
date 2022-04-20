@@ -45,8 +45,16 @@ Cada um dos menus principais utiliza diferentes aspectos de uma colonização es
 
 ### Construções
 
+Melhorias focadas em pontos-por-segundo e aumento de pontuação por cada asteróide.
 
+### Melhorias Variadas
 
-### Upgrades Variados
+Melhorias variadas com destaque para a melhoria de ponto-por-click.
+
+@imagem
+
+As mecânicas presentes neste menu são:
+*
+*
 
 ### Configurações
