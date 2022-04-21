@@ -18,6 +18,8 @@
 O código presente neste repositório é livre para uso parcial, completo ou apenas como inspiração. 
 O uso deste código é isento de atribuição, entretanto peço que, se possível, mencione este repositório como origem do código utilizado - direta ou indiretamente - em sua aplicação.
 
+<img src="https://user-images.githubusercontent.com/39245594/164486304-ad550eff-4341-4523-995f-273f63baf33b.png" width="400" height="400">
+
 ## Tela Inicial
 
 Ao entrar no jogo os seguintes procedimentos ocorrem imediatamente e automaticamente:
